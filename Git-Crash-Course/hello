@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 this is a commit from Opensuse
+=======
+Its a branch version
+>>>>>>> ba76bf1 (changes)
