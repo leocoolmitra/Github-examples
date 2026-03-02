@@ -32,6 +32,16 @@ we can use HTTPS or SSH
 
 ##Merging
 
+##stashing
+
+```
+    Ø Git stash save 
+    Ø Git stash 
+    Ø Git stash list
+    Ø Git stash apply
+Git stash pop
+```
+
 #This is nice 
 
 so this is fix
